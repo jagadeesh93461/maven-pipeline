@@ -23,8 +23,6 @@
              </configuration>
             </plugin>
         </plugins>
-    </build>
-</build>
     <finalName>edutechApp</finalName>
   </build>
 </project>
